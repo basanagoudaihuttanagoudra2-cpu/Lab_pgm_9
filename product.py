@@ -1,3 +1,4 @@
+import sys
 def product_details(product_id, name, quantity, price):
     return f"Product ID: {product_id}\nProduct Name: {name}\nQuantity: {quantity}\nPrice: {price}"
 
